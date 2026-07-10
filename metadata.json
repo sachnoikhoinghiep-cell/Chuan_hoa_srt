@@ -1,0 +1,6 @@
+{
+  "name": "SRT Master - Chuẩn SRT",
+  "description": "A powerful utility to normalize messy text with timestamps into professionally formatted SRT subtitle files using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
